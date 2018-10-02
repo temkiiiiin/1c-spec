@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">33fd5ded-c62c-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>17</v8:Code>
+			<v8:Description>Торт Тирамису</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">4696cce4-c62c-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>18</v8:Code>
+			<v8:Description>Кекс</v8:Description>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c14e4589-c62c-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>19</v8:Code>
+			<v8:Description>Доставка</v8:Description>
+			<v8:ВидНоменклатуры>Услуга</v8:ВидНоменклатуры>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637c8-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>1</v8:Code>
+			<v8:Description>Авторучки</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637c9-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>2</v8:Code>
+			<v8:Description>Рыбы</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637ca-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>3</v8:Code>
+			<v8:Description>Продукты питания</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637cc-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>4</v8:Code>
+			<v8:Description>Холодильники</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637cd-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637c8-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>5</v8:Code>
+			<v8:Description>Big (капилярная)</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637ce-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637c8-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>6</v8:Code>
+			<v8:Description>Паркер "Golg"</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637cf-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637c8-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>7</v8:Code>
+			<v8:Description>Шариковая обычная</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d0-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637ca-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>8</v8:Code>
+			<v8:Description>Крупа манная</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d1-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637ca-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>9</v8:Code>
+			<v8:Description>Йогурт "Малина"</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d2-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637ca-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>10</v8:Code>
+			<v8:Description>Молоко "Домик в деревне"</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d3-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637c9-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>11</v8:Code>
+			<v8:Description>Абудефдуф обыкновенный</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d4-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637c9-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>12</v8:Code>
+			<v8:Description>Бодиан Дианы</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d5-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637c9-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>13</v8:Code>
+			<v8:Description>Дасцилл синеточечный</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d6-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637cc-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>14</v8:Code>
+			<v8:Description>Bosch KGS 3760 IE </v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d7-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637cc-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>15</v8:Code>
+			<v8:Description>Electrolux ER 9007 B</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">978637d8-3fb7-11df-af8e-001302ef9025</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">978637cc-3fb7-11df-af8e-001302ef9025</v8:Parent>
+			<v8:Code>16</v8:Code>
+			<v8:Description>Атлант МХМ 1704-00</v8:Description>
+			<v8:ВидНоменклатуры/>
+		</v8:CatalogObject.Номенклатура>
+		<v8:DocumentObject.ПриходнаяНакладная>
+			<v8:Ref>c14e458a-c62c-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2018-10-02T15:20:29</v8:Date>
+			<v8:Number>000000001</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:СуммаПоДокументу>0</v8:СуммаПоДокументу>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">33fd5ded-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>2</v8:Количество>
+				<v8:Цена>700</v8:Цена>
+				<v8:Сумма>1400</v8:Сумма>
+			</v8:СписокНоменклатуры>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">4696cce4-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>7</v8:Количество>
+				<v8:Цена>40</v8:Цена>
+				<v8:Сумма>280</v8:Сумма>
+			</v8:СписокНоменклатуры>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">c14e4589-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>1</v8:Количество>
+				<v8:Цена>100</v8:Цена>
+				<v8:Сумма>100</v8:Сумма>
+			</v8:СписокНоменклатуры>
+		</v8:DocumentObject.ПриходнаяНакладная>
+		<v8:DocumentObject.ПриходнаяНакладная>
+			<v8:Ref>94c2ed81-c63d-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2018-10-02T15:20:43</v8:Date>
+			<v8:Number>000000002</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:СуммаПоДокументу>0</v8:СуммаПоДокументу>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">33fd5ded-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>1</v8:Количество>
+				<v8:Цена>700</v8:Цена>
+				<v8:Сумма>700</v8:Сумма>
+			</v8:СписокНоменклатуры>
+		</v8:DocumentObject.ПриходнаяНакладная>
+		<v8:DocumentObject.ПриходнаяНакладная>
+			<v8:Ref>a00ba617-c63d-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2018-10-02T15:21:02</v8:Date>
+			<v8:Number>000000003</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:СуммаПоДокументу>0</v8:СуммаПоДокументу>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">4696cce4-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>3</v8:Количество>
+				<v8:Цена>40</v8:Цена>
+				<v8:Сумма>120</v8:Сумма>
+			</v8:СписокНоменклатуры>
+		</v8:DocumentObject.ПриходнаяНакладная>
+		<v8:DocumentObject.РасходнаяНакладная>
+			<v8:Ref>b2b80589-c63d-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2018-10-02T15:50:57</v8:Date>
+			<v8:Number>000000001</v8:Number>
+			<v8:Posted>true</v8:Posted>
+			<v8:СуммаПоДокументу>0</v8:СуммаПоДокументу>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">c14e4589-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>1</v8:Количество>
+				<v8:Цена>100</v8:Цена>
+				<v8:Сумма>100</v8:Сумма>
+			</v8:СписокНоменклатуры>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">33fd5ded-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>1</v8:Количество>
+				<v8:Цена>1500</v8:Цена>
+				<v8:Сумма>1500</v8:Сумма>
+			</v8:СписокНоменклатуры>
+		</v8:DocumentObject.РасходнаяНакладная>
+		<v8:DocumentObject.РасходнаяНакладная>
+			<v8:Ref>12f7c0ec-c640-11e8-8145-a0369f6eb7f9</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Date>2018-10-02T15:38:34</v8:Date>
+			<v8:Number>000000002</v8:Number>
+			<v8:Posted>false</v8:Posted>
+			<v8:СуммаПоДокументу>0</v8:СуммаПоДокументу>
+			<v8:СписокНоменклатуры>
+				<v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">33fd5ded-c62c-11e8-8145-a0369f6eb7f9</v8:Номенклатура>
+				<v8:Количество>3</v8:Количество>
+				<v8:Цена>1500</v8:Цена>
+				<v8:Сумма>1500</v8:Сумма>
+			</v8:СписокНоменклатуры>
+		</v8:DocumentObject.РасходнаяНакладная>
+		<v8:InformationRegisterRecordSet.УчетнаяПолитика>
+			<v8:Filter>
+				<FilterItem xmlns="http://v8.1c.ru/8.1/data/enterprise">
+					<Name xsi:type="xs:string">Period</Name>
+					<Value xsi:type="xs:dateTime">2018-01-01T00:00:00</Value>
+				</FilterItem>
+			</v8:Filter>
+			<v8:Record>
+				<v8:Period>2018-01-01T00:00:00</v8:Period>
+				<v8:УчетнаяПолитика>ФИФО</v8:УчетнаяПолитика>
+			</v8:Record>
+		</v8:InformationRegisterRecordSet.УчетнаяПолитика>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
