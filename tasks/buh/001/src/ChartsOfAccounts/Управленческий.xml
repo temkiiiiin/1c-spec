@@ -44,7 +44,7 @@
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<BasedOn/>
 			<ExtDimensionTypes>ChartOfCharacteristicTypes.ВидыСубконто</ExtDimensionTypes>
-			<MaxExtDimensionCount>0</MaxExtDimensionCount>
+			<MaxExtDimensionCount>2</MaxExtDimensionCount>
 			<CodeMask>@@.@@</CodeMask>
 			<CodeLength>5</CodeLength>
 			<DescriptionLength>50</DescriptionLength>
