@@ -97,7 +97,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="d7892c59-cb53-41cc-a074-8ac7a68874f3"/>
 		</Metadata>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="175cf957-1c89-437e-9199-36da6ca20619.0" configVersion="994f6966cc5a754c9d2eea423298eece00000000"/>
-		<Metadata name="Document.РасходнаяНакладная" id="b47e0747-d6c8-4ee8-bb39-df98a7a38912" configVersion="6464e05500a01e45845dd4ad8397a8ac00000000">
+		<Metadata name="Document.РасходнаяНакладная" id="b47e0747-d6c8-4ee8-bb39-df98a7a38912" configVersion="2425ef0a040c354f862897f5229688f400000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Количество" id="05b3711e-22c8-4ac2-a22f-2803fb404d2d"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="443d6a98-2312-4ca8-b789-5463720c6ddd"/>
 			<Metadata name="Document.РасходнаяНакладная.Attribute.ДоговорКонтрагента" id="840b161f-02ab-4253-bc42-ca83ac3fd3f6"/>
@@ -107,9 +107,9 @@
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры" id="b230b921-da35-4e92-9453-47611eb067c1"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="cd03dc3c-55d6-45ee-83ee-c8e71ec0a51d"/>
 		</Metadata>
-		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="c42b6526-911a-4dee-8d41-1c8875d0ad46" configVersion="3b2d0a5a2ddd1b4cac643489a28df38100000000"/>
-		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="c42b6526-911a-4dee-8d41-1c8875d0ad46.0" configVersion="b03815b1f4a43948b8ae487efc688bd700000000"/>
-		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="b47e0747-d6c8-4ee8-bb39-df98a7a38912.0" configVersion="a7c2001dc2714c4da020362e8617862200000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="c42b6526-911a-4dee-8d41-1c8875d0ad46" configVersion="7fc4d27ac27d5842ac10d9ef860b311700000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="c42b6526-911a-4dee-8d41-1c8875d0ad46.0" configVersion="772a22d9cdcfbd4caaeacbf1fadc858600000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="b47e0747-d6c8-4ee8-bb39-df98a7a38912.0" configVersion="d36bb397750e6044b69c1765dae0692d00000000"/>
 		<Metadata name="Enum.ВидыНоменклатуры" id="3d720e22-c9fc-4720-b899-5dc754c61975" configVersion="1854388458a5814193817081844bbc7e00000000">
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="0326632b-5dd3-45ff-aab5-b83ec8d68df8"/>
 			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="04a105ac-2ad1-4101-9d50-5e4b2379ee85"/>
