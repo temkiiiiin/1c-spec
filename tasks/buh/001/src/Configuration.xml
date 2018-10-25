@@ -153,15 +153,17 @@
 			<Constant>НазваниеОрганизации</Constant>
 			<Constant>ЮридическийАдрес</Constant>
 			<Catalog>Валюты</Catalog>
-			<Catalog>Номенклатура</Catalog>
-			<Catalog>Контрагенты</Catalog>
-			<Catalog>ФизическиеЛица</Catalog>
-			<Catalog>Подразделения</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ЗначенияСвойств</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>Подразделения</Catalog>
 			<Catalog>Субконто</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>РасходнаяНакладная</Document>
 			<Document>НачислениеЗарплаты</Document>
+			<Document>ПриходДенег</Document>
 			<Enum>УчетнаяПолитика</Enum>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Enum>ПолФизическихЛиц</Enum>
@@ -179,6 +181,7 @@
 			<ChartOfCharacteristicTypes>СвойстваОбъектов</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Управленческий</ChartOfAccounts>
+			<AccountingRegister>Управленческий</AccountingRegister>
 			<ChartOfCalculationTypes>ОсновныеНачисления</ChartOfCalculationTypes>
 			<ChartOfCalculationTypes>ДополнительныеНачисления</ChartOfCalculationTypes>
 			<ChartOfCalculationTypes>Удержания</ChartOfCalculationTypes>

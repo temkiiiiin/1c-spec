@@ -43,7 +43,7 @@
 			<UseStandardCommands>true</UseStandardCommands>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<BasedOn/>
-			<ExtDimensionTypes/>
+			<ExtDimensionTypes>ChartOfCharacteristicTypes.ВидыСубконто</ExtDimensionTypes>
 			<MaxExtDimensionCount>0</MaxExtDimensionCount>
 			<CodeMask>@@.@@</CodeMask>
 			<CodeLength>5</CodeLength>

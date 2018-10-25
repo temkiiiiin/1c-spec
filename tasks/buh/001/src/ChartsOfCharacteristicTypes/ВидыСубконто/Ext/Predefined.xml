@@ -1,5 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PlanOfCharacteristicKindPredefinedItems" version="2.5">
+	<Item id="20a37150-d534-4568-a418-eac918f95fb3">
+		<Name>ДоговорКонтрагента</Name>
+		<Code>000000003</Code>
+		<Description>Договор контрагента</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.ДоговорыКонтрагентов</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="7c91827f-9df5-4d21-a9b7-ab9877bb9f5d">
+		<Name>Контрагент</Name>
+		<Code>000000002</Code>
+		<Description>Контрагент</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Контрагенты</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
 	<Item id="da4b2361-c1cc-4fcd-aec9-bd9e7b5fb410">
 		<Name>Номенклатура</Name>
 		<Code>000000001</Code>
