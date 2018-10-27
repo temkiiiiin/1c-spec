@@ -169,6 +169,7 @@
 			<Enum>ПолФизическихЛиц</Enum>
 			<Report>Остатки</Report>
 			<Report>Продажи</Report>
+			<Report>ЗадолженностьПокупателей</Report>
 			<DataProcessor>КонсольЗапросов</DataProcessor>
 			<DataProcessor>ЗаполнениеГрафика</DataProcessor>
 			<InformationRegister>РегистрАдресации</InformationRegister>
