@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<ChartOfCalculationTypes uuid="34f00166-7f81-4ece-ac40-71dea9c59595">
+		<InternalInfo>
+			<xr:GeneratedType name="ChartOfCalculationTypesObject.ДополнительныеНачисления" category="Object">
+				<xr:TypeId>4b013f9e-3aab-401b-8176-113ca6d56585</xr:TypeId>
+				<xr:ValueId>0da97ea6-9943-4f65-aa0f-5dee232e3fbf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesRef.ДополнительныеНачисления" category="Ref">
+				<xr:TypeId>2018a911-7714-4908-81c8-eb60158701fb</xr:TypeId>
+				<xr:ValueId>38b4a9f1-794d-4aea-82dc-6ab993d0a69d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesSelection.ДополнительныеНачисления" category="Selection">
+				<xr:TypeId>eb7a37bb-e29d-4d9d-8e0d-e8ca672c6d11</xr:TypeId>
+				<xr:ValueId>546cb7e5-71f5-4845-a8fb-a1db7c2f4fe3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesList.ДополнительныеНачисления" category="List">
+				<xr:TypeId>f0dbc921-53b6-4f88-9d66-777221fb5334</xr:TypeId>
+				<xr:ValueId>3c6e00ef-8184-48f5-b867-8ea2a5a36f9a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCalculationTypesManager.ДополнительныеНачисления" category="Manager">
+				<xr:TypeId>789a0910-4e1a-4bcf-982e-a1b4f6985445</xr:TypeId>
+				<xr:ValueId>71bb0abc-5edf-4281-8646-8e5040b4b62b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DisplacingCalculationTypes.ДополнительныеНачисления" category="DisplacingCalculationTypes">
+				<xr:TypeId>f87a15e1-1e56-45c3-b565-c1583cf25a75</xr:TypeId>
+				<xr:ValueId>1a361f19-cf90-401d-865f-5341fca0780e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DisplacingCalculationTypesRow.ДополнительныеНачисления" category="DisplacingCalculationTypesRow">
+				<xr:TypeId>fb566fcd-ff26-4ef6-aa35-4534814d26ef</xr:TypeId>
+				<xr:ValueId>edd0aa1e-8224-4edb-90c2-7a867ebb3b07</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="BaseCalculationTypes.ДополнительныеНачисления" category="BaseCalculationTypes">
+				<xr:TypeId>b9cf37b0-4e4d-402b-859c-022ba9e5052e</xr:TypeId>
+				<xr:ValueId>811e70d6-9255-476a-91e1-53330702576a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="BaseCalculationTypesRow.ДополнительныеНачисления" category="BaseCalculationTypesRow">
+				<xr:TypeId>99d8c712-0c9e-424e-b1bd-370af88b2884</xr:TypeId>
+				<xr:ValueId>fad1dabb-cc84-4892-baf3-35f6b127eeca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="LeadingCalculationTypes.ДополнительныеНачисления" category="LeadingCalculationTypes">
+				<xr:TypeId>89fe517f-0791-472e-a034-24b1a2896a73</xr:TypeId>
+				<xr:ValueId>a092959e-886b-45e6-8657-9e8129c82129</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="LeadingCalculationTypesRow.ДополнительныеНачисления" category="LeadingCalculationTypesRow">
+				<xr:TypeId>38408c2c-f8b7-4118-9ac1-3b5fabb85382</xr:TypeId>
+				<xr:ValueId>e6c1cad3-e867-4d52-ade3-d510ab189a3d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДополнительныеНачисления</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дополнительные начисления</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<CodeLength>9</CodeLength>
+			<DescriptionLength>40</DescriptionLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+			<DefaultPresentation>AsDescription</DefaultPresentation>
+			<EditType>InDialog</EditType>
+			<QuickChoice>false</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<InputByString>
+				<xr:Field>ChartOfCalculationTypes.ДополнительныеНачисления.StandardAttribute.Description</xr:Field>
+				<xr:Field>ChartOfCalculationTypes.ДополнительныеНачисления.StandardAttribute.Code</xr:Field>
+			</InputByString>
+			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
+			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
+			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
+			<CreateOnInput>DontUse</CreateOnInput>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+			<DefaultObjectForm/>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryObjectForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<BasedOn/>
+			<DependenceOnCalculationTypes>OnActionPeriod</DependenceOnCalculationTypes>
+			<BaseCalculationTypes>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCalculationTypes.ОсновныеНачисления</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCalculationTypes.ДополнительныеНачисления</xr:Item>
+			</BaseCalculationTypes>
+			<ActionPeriodUse>true</ActionPeriodUse>
+			<Characteristics/>
+			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockFields/>
+			<DataLockControlMode>Automatic</DataLockControlMode>
+			<FullTextSearch>Use</FullTextSearch>
+			<ObjectPresentation/>
+			<ExtendedObjectPresentation/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</ChartOfCalculationTypes>
+</MetaDataObject>
